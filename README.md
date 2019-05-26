@@ -19,4 +19,4 @@ How the program works:
 	q: quit -> lets you quit the program
 - Because you don’t have any blocks mined yet, ‘1: Add a new transaction value’ will not work because of your insufficient balance
 - We recommend you start with ‘2’ -> this will add 10.00 coins to your balance
-- You can then start a transaction with ‘3’ and enter the recipient (e.g. Simon) as well as the amount (e.g. 5)
+- You can then start a transaction with ‘1’ and enter the recipient (e.g. Simon) as well as the amount (e.g. 5)
